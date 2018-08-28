@@ -1,0 +1,5 @@
+Dama
+
+Xadrez
+
+Gamão
